@@ -56,27 +56,11 @@
   A comprehensive platform with course filtering, detailed course pages, and an admin panel. Built using React, Tailwind, and Firebase.  
   <em>Focus: User Experience, Real-time Updates, Scalability</em>
 
-- 🏛 **Panchayath Management System**  
-  Internship project: A complete municipality solution with a responsive web admin panel, mobile app, API services, and MongoDB integration.  
-  <em>Focus: Full-Stack Development, Real-time Data Management</em>
-
 - 📊 **Power BI Dashboard for Training Business**  
   Visualized training course data, enrollments, and sales using Power BI dashboards to help businesses make data-driven decisions.  
   <em>Focus: Data Cleaning, Visualization, Business Intelligence</em>
 
----
 
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshaypoojary187&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=akshaypoojary187&theme=radical" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaypoojary187&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
 
 ## 👤 About Me (What You Might Not Know)
 
