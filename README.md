@@ -49,15 +49,6 @@ UI/UX • Open Source • Web3 • AI Integration
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshaypoojary187&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=akshaypoojary187&theme=radical" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaypoojary187&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 ---
 
