@@ -65,7 +65,7 @@
 ## 👤 About Me (What You Might Not Know)
 
 - 💼 Fresher looking for growth opportunities in software development and data analytics.
-- 📍 Currently based in Bangalore, eager to connect and collaborate.
+- 📍 Currently based in Moodbidri, eager to connect and collaborate.
 - 🧑‍🎓 MCA Graduate passionate about continuous learning and problem-solving.
 - 🛠️ Strong focus on improving every day through practical projects and hands-on learning.
 - 🤝 Open to internships, freelance opportunities, and networking in the tech space.
